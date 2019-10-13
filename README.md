@@ -6,7 +6,7 @@ download existing repository
 or download iot-dashboard branch
 <p>$git clone -b development https://github.com/LucumaPi/IoT-Dashboard.git</p>
 enter to Dashoboard-iot-nodejs directory
-<p>$cd Dashboard-iot-nodejs</p>
+<p>$cd IoT-Dashboard</p>
 install dependencies
 <p>$npm install</p>
 build
